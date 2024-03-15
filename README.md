@@ -25,16 +25,16 @@ Screenshots
 ---------------
 Plans
 
-35 Exits 8 Bosses 5 Secret Exits (3/48)
-Custom Map (0/1)
-Custom stage backrounds (0/idk)
-Custom music 
+- 35 Exits 8 Bosses 5 Secret Exits (3/48)
+- Custom Map (0/1)
+- Custom stage backrounds (0/idk)
+- Custom music 
 ---------------
 Credits:
 
-Nintendo: Super Mario World
-Lunar Magic: FuSoYa
-SOUP!: potato (Soullessbean)
-
+- Nintendo: Super Mario World
+- Lunar Magic: FuSoYa
+- SOUP!: potato (Soullessbean)
+- March 2024 
 --------------
 
