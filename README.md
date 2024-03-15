@@ -25,7 +25,7 @@ Screenshots
 ---------------
 Plans
 
-- 35 Exits 8 Bosses 5 Secret Exits (3/48)
+- 35 Exits 8 Bosses 5 Secret Exits 4 Switch houses (4/52)
 - Custom Map (0/1)
 - Custom stage backrounds (0/idk)
 - Custom music 
